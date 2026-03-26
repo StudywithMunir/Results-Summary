@@ -49,15 +49,15 @@ This challenge focuses on:
 Add a screenshot of your final project here.
 
 ```md
-![Results Summary Screenshot](./screenshot.jpg)
+![Results Summary Screenshot](./final-results/desktop-final.png)
 ```
 
 ---
 
 ## Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/your-solution
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: https://www.frontendmentor.io/solutions/results-summary-component-challenge-rFypSpXCoo
+- Live Site URL: https://studywithmunir.github.io/Results-Summary/
 
 ---
 
@@ -170,5 +170,5 @@ AI helped speed up development while allowing me to focus on learning and implem
 
 # Author
 
-- Frontend Mentor: https://www.frontendmentor.io/profile/yourusername
-- GitHub: https://github.com/yourusername
+- Frontend Mentor: https://www.frontendmentor.io/profile/StudywithMunir
+- GitHub: https://github.com/StudywithMunir/Results-Summary
